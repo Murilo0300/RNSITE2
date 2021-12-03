@@ -1,0 +1,23 @@
+main color CSS #2f4f4f
+
+
+index page
+	sobre o curso
+	programa do curso - include [normas do curso]
+	contato [deixar funcional]
+	
+
+second page
+	Mudar as imagens do carrossel
+
+			    -include [pagina de mídias]
+	videos e textos
+	aulas gravadas
+	
+colocar página de mídias 
+
+
+Concluídos
+
+pag2 - sobre rodrigo naves -include [livros] 
+	
